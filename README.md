@@ -6,7 +6,7 @@ Video:  https://www.youtube.com/watch?v=Ok6vO98RV_Q
 
 **Usage:**
 
-cd into a directory, install dependencies and run the dev server.
+cd into a directory, install dependencies and run the dev server and finally view on your browser.
 
 **Example:**
 
@@ -20,5 +20,6 @@ npm run serve
 
 v0.0.1 - This is the empty starting point. (until 1:48 in the video)
 
-v0.0.2 - Now Pinia got installed. (until 2:40 in the video)
+v0.0.2 - Now Pinia got installed and configured. (until 2:40 in the video)
 
+v0.0.3 - Viewing a zero under the Hello world. (until 7:39 in the video)

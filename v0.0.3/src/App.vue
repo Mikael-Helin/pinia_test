@@ -1,14 +1,8 @@
 <template>
   <h3>Hello World</h3>
-  <h4>{{ counter }}</h4>
 </template>
 
 <script>
-  import { useCounterStore } from "@/store/useCounter"
-
-  const main = useCounterStore();
-  const { counter, name } = main 
-
 </script>
 
 <style>
