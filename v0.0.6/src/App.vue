@@ -33,15 +33,15 @@
     main.$patch({
       counter: counter.value+value
     })
-  }
+  };
 
   function remove(value) {
     main.$patch(s => s.counter -= value)
-  }
+  };
 
   function resetfun() {
     main.$reset();
-  }
+  };
 
   main.$subscribe((mutation, state) => {
     console.log("mutation", mutation);
@@ -50,7 +50,7 @@
 
   function clear() {
     main.$state = { counter: 123, name: "Bob" }
-  }
+  };
 
 // import HelloWorld from './components/HelloWorld.vue'
 
