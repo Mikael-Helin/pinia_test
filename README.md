@@ -16,7 +16,7 @@ npm install
 
 npm run serve
 
-
+**Versions**
 
 v0.0.1 - This is the empty starting point. (until 1:48 in the video)
 v0.0.2 - Now Pinia got installed.
