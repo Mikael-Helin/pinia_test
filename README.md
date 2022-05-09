@@ -24,6 +24,7 @@ v0.0.2 - Now Pinia got installed and configured. (until 2:40 in the video)
 
 v0.0.3 - Zero shown under Hello World. (until 7:39 in the video)
 
-v0.0.4 - Adding the add button to increase the counter. First here using Pinia. (until 8:31 in the video)
+v0.0.4 - Adding the add button to increase the counter. Using storeToRefs from Pinia. (until 8:31 in the video)
 
-v0.0.5 - 
+v0.0.5 - Using mapActions from Pinia and using functions. Showing different solutions. (until 12:38 in the video)
+
