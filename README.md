@@ -4,11 +4,11 @@ Video:  https://www.youtube.com/watch?v=Ok6vO98RV_Q
 
 Do the same as in the video, but without using TypeScript.
 
-Usage:
+**Usage:**
 
 cd into a directory, install dependencies and run the dev server.
 
-Example:
+**Example:**
 
 cd v0.0.1
 
